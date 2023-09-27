@@ -1,0 +1,15 @@
+.icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  color: var(--Light, #FFF);
+
+  /* Body 1 */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 175% */
+}
